@@ -11,7 +11,6 @@ body {
     justify-content: start;
     align-items: center;
     text-align: center;
-
 }
 
 .bg {
@@ -66,12 +65,9 @@ body {
 
 .joke-text-container {
     position: relative;
-    /* background-color: aliceblue; */
     height: 7rem;
     margin-bottom: 1.5rem;
 }
-
-
 
 .joke-text {
     position: relative;
